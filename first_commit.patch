@@ -1,0 +1,16 @@
+Index: src/App.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/App.vue b/src/App.vue
+--- a/src/App.vue	(revision e131f6da8b9979831380594a580f13d867f6fea1)
++++ b/src/App.vue	(revision 09496549289c4a81610e59362469f906dbc603bc)
+@@ -1,6 +1,7 @@
+ <template>
+   <img alt="Vue logo" src="./assets/logo.png">
+   <HelloWorld msg="Welcome to Your Vue.js App"/>
++  <!--  <div>hello,world!</div>-->
+ </template>
+ 
+ <script>
